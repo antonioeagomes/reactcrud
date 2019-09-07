@@ -1,0 +1,46 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "age": 34,
+            "name": "Nunez Weaver",
+            "email": "nunezweaver@panzent.com"
+        },
+        {
+            "id": 2,
+            "age": 35,
+            "name": "Stark Estrada",
+            "email": "starkestrada@panzent.com"
+        },
+        {
+            "id": 3,
+            "age": 40,
+            "name": "Christian French",
+            "email": "christianfrench@panzent.com"
+        },
+        {
+            "id": 4,
+            "age": 29,
+            "name": "Hilda Parks",
+            "email": "hildaparks@panzent.com"
+        },
+        {
+            "id": 5,
+            "age": 40,
+            "name": "Donaldson Fowler",
+            "email": "donaldsonfowler@panzent.com"
+        },
+        {
+            "id": 6,
+            "age": 26,
+            "name": "Abigail Fletcher",
+            "email": "abigailfletcher@panzent.com"
+        },
+        {
+            "id": 7,
+            "age": 30,
+            "name": "Richmond Rush",
+            "email": "richmondrush@panzent.com"
+        }
+    ]
+}
